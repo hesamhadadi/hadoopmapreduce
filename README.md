@@ -16,4 +16,3 @@ A simple Hadoop MapReduce project written in Java.
 
 ```bash
 hadoop jar project.jar WordCount input output
-Updated for some changes
